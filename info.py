@@ -30,11 +30,11 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 default_start_msg = """
-**Hi, I'm Media Search bot**
+**හායි, මම සිංහල උපසිරැසි ලබා දෙන බොට් කෙනෙක්. **
 
-Here you can search files in inline mode. Just press following buttons and start searching.
+මෙහිදී ඔබට අවශ්‍ය subtitles සෙවිය හැකිය. පහත දැක්වෙන බොත්තම් ඔබා සෙවීම ආරම්භ කරන්න.
 """
 
 START_MSG = environ.get('START_MSG', default_start_msg)
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = environ.get('INVITE_MSG', 'Please join @.... to use this bot')
+INVITE_MSG = environ.get('INVITE_MSG', 'බොට්ව පාවිච්චි කරන්න මේ Channel එකට @TWNBOTS join වෙලා ඉන්න ')
