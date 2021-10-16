@@ -23,9 +23,9 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**හායි, මම සිංහල උපසිරැසි ලබා දෙන බොට් කෙනෙක්. **
 
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+මෙහිදී ඔබට අවශ්‍ය subtitles සෙවිය හැකිය. පහත දැක්වෙන බොත්තම් ඔබා සෙවීම ආරම්භ කරන්න.
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
