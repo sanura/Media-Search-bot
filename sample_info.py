@@ -29,4 +29,4 @@ START_MSG = """
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = 'Please join @.... to use this bot'
+INVITE_MSG = 'බොට්ව පාවිච්චි කරන්න මේ Channel එකට @TWNBOTS join වෙලා ඉන්න'
